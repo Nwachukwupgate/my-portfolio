@@ -144,11 +144,11 @@ export const Clisha: ProjectType = {
 };
 
 export const company: ProjectType = {
-  title: 'Clisha Company',
+  title: 'Company',
   description:
     'Clisha Company, your partner for effective online presence and sustainable visibility. In todays digital landscape, where attention is the currency, we help businesses achieve enhanced online reputation and connect with their audience through authentic user interactions.',
   tags: ['Interaction Design', 'Front End Development', 'React', 'Node.js', 'Express', 'Postgresql, "redis', 'socket'],
-  link: '/portfolio/clishacompany',
+  link: '/portfolio/company',
   slug: "https://company.clisha.me/index",
   coverImage: companyCover,
   staticImages: {
@@ -159,11 +159,11 @@ export const company: ProjectType = {
     ],
   },
   background:
-    "Clisha Company is a cutting-edge digital engagement platform that helps businesses maximize their online presence through authentic user interactions. In today’s competitive digital space, visibility and credibility are key, and we specialize in enhancing brand recognition through scalable and data-driven solutions. Built with a robust tech stack—including React, Node.js, Express, PostgreSQL, Redis, and WebSockets—our platform ensures real-time interactions, seamless scalability, and high-performance execution. Our innovative strategies have led to a 60% increase in user engagement, a 45% boost in conversion rates, and a 35% rise in customer retention. By leveraging AI-driven analytics and automated workflows, we provide businesses with a strategic advantage in audience engagement and digital growth.",
+    "Clisha Company is a cutting-edge digital engagement platform that helps businesses maximize their online presence through authentic user interactions. In todays competitive digital space, visibility and credibility are key, and we specialize in enhancing brand recognition through scalable and data-driven solutions. Built with a robust tech stack—including React, Node.js, Express, PostgreSQL, Redis, and WebSockets—our platform ensures real-time interactions, seamless scalability, and high-performance execution. Our innovative strategies have led to a 60% increase in user engagement, a 45% boost in conversion rates, and a 35% rise in customer retention. By leveraging AI-driven analytics and automated workflows, we provide businesses with a strategic advantage in audience engagement and digital growth.",
 };
 
 export const delivery: ProjectType = {
-  title: 'Delivery Ease',
+  title: 'DeliveryEase',
   description:
     'Delivery ease excels in fast and reliable deliveries, offering top-notch services to their clients. Their real-time tracking system ensures transparency and peace of mind throughout the shipping process. Trusted by businesses and individuals alike, We are the go-to choice for efficient logistics solutions.',
   tags: ['Interaction Design', 'Front End Development', 'Next', 'php', 'Postgresql, "redis', 'redux'],
