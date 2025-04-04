@@ -148,7 +148,7 @@ export const company: ProjectType = {
   description:
     'Clisha Company, your partner for effective online presence and sustainable visibility. In todays digital landscape, where attention is the currency, we help businesses achieve enhanced online reputation and connect with their audience through authentic user interactions.',
   tags: ['Interaction Design', 'Front End Development', 'React', 'Node.js', 'Express', 'Postgresql, "redis', 'socket'],
-  link: '/portfolio/clisha-company',
+  link: '/portfolio/clishacompany',
   slug: "https://company.clisha.me/index",
   coverImage: companyCover,
   staticImages: {
@@ -167,7 +167,7 @@ export const delivery: ProjectType = {
   description:
     'Delivery ease excels in fast and reliable deliveries, offering top-notch services to their clients. Their real-time tracking system ensures transparency and peace of mind throughout the shipping process. Trusted by businesses and individuals alike, We are the go-to choice for efficient logistics solutions.',
   tags: ['Interaction Design', 'Front End Development', 'Next', 'php', 'Postgresql, "redis', 'redux'],
-  link: '/portfolio/delivery-ease',
+  link: '/portfolio/deliveryease',
   slug: "https://thedeliveryeaselogistics.com/",
   coverImage: deliveryCover,
   staticImages: {
